@@ -1,97 +1,101 @@
 <div align="center">
 
-# 👋 Hey, I'm YOUR_NAME
+# 👋 سلام، من یک توسعه‌دهنده و سازنده پروژه‌های خلاق هستم
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Enthusiast;Bot+Developer;Animation+Creator;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=800&lines=Python+Developer;Flutter+Developer;Bot+Developer;AI+Enthusiast;Animation+Creator;Always+Building+Something+New" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 درباره من
 
 ```python
-class Developer:
+class Me:
     def __init__(self):
-        self.name = "YOUR_NAME"
-        self.language = "Python"
+        self.languages = ["Python", "Dart", "JavaScript"]
         self.interests = [
             "Artificial Intelligence",
             "Bot Development",
+            "Flutter Development",
+            "Web Scraping",
             "Animation",
-            "Automation",
             "Open Source"
         ]
 
     def say_hi(self):
-        print("Thanks for visiting my profile!")
-```
+        print("Welcome to my GitHub profile ❤️")
 
-- 🐍 Python Developer
-- 🤖 Passionate about Artificial Intelligence
-- 🎬 Animation Creator & YouTuber
-- 🛠️ Building Bots and Automation Systems
-- 🌍 Interested in Multilingual Applications
-- 📚 Always Learning New Technologies
-
----
-
-## 💻 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,json" />
-</p>
+- 🐍 توسعه‌دهنده Python
+- 🎯 توسعه‌دهنده Flutter و Dart
+- 🤖 علاقه‌مند به هوش مصنوعی و ساخت دستیارهای هوشمند
+- 🛠️ توسعه‌دهنده ربات و سیستم‌های اتوماسیون
+- 🌐 علاقه‌مند به Web Scraping و کار با APIها
+- 🎬 انیمیشن‌ساز و تولیدکننده محتوا
+- 🚀 عاشق ساخت پروژه‌های بزرگ و خلاقانه
+- 📚 همیشه در حال یادگیری فناوری‌های جدید
 
 ---
 
-## 🔥 Current Projects
+💻 مهارت‌ها و فناوری‌ها
 
-- 🤖 Advanced Management Bots
-- 💬 Chat & Auto Reply Systems
-- 🧠 AI-powered Applications
-- 🎮 Multiplayer Games and Automation Tools
-- 📦 Libraries and Frameworks for Bots
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,javascript,git,github,linux,vscode" />
+</p>🔹 زبان‌های برنامه‌نویسی
+
+- Python
+- Dart
+- JavaScript
+- HTML & CSS
+
+🔹 حوزه‌های تخصصی
+
+- Bot Development
+- Web Scraping
+- API Development
+- Automation
+- Artificial Intelligence
+- Backend Development
+- Flutter App Development
 
 ---
 
-## 📊 GitHub Stats
+🔥 پروژه‌هایی که دوست دارم بسازم
+
+- 🤖 ربات‌های هوشمند و مدیریتی
+- 💬 سیستم‌های چت و پاسخ‌گوی خودکار
+- 🧠 پروژه‌های مبتنی بر هوش مصنوعی
+- 📱 اپلیکیشن‌های Flutter
+- 🌐 ابزارهای Web Scraping و جمع‌آوری داده
+- ♟️ بازی‌ها و پروژه‌های چندنفره
+- 📦 کتابخانه‌ها و فریم‌ورک‌های کاربردی
+- 🎨 پروژه‌های خلاقانه و انیمیشن
+
+---
+
+📊 آمار گیت‌هاب
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+</p>---
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
+📈 نمودار فعالیت
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
+</p>---
+
+🏆 هدف من
+
+Build → Learn → Create → Repeat
+
+««کدنویسی فقط نوشتن کد نیست؛ ساختن چیزی است که قبلاً وجود نداشته است.»»
 
 ---
 
-## 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-- 📺 YouTube: YOUR_CHANNEL
-- 💬 Telegram: @YOUR_USERNAME
-
----
-
-<div align="center">
-
-### ✨ "Every idea can become a real product if you keep building."
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views)
+<div align="center">⭐ اگر پروژه‌هایم را دوست داشتید، آن‌ها را Star کنید.
 
 </div>
+```
