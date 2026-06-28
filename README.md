@@ -71,7 +71,6 @@ My focus is on building clean, useful, and creative software — from automation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
@@ -137,9 +136,8 @@ I believe good software should be useful, elegant, and built with intention.
 ## 📫 Connect With Me
 
 - GitHub: `soroosh185`
-- YouTube: `Add your channel link here`
-- Telegram: `Add your Telegram here`
-- Email: `Add your email here`
+- Telegram: `@Soroosh_fathi`
+- Email: `sorooshfathi1385@gmail.com`
 
 ---
 
