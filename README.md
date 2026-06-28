@@ -1,101 +1,150 @@
 <div align="center">
 
-# 👋 سلام، من یک توسعه‌دهنده و سازنده پروژه‌های خلاق هستم
+# 👋 Hi, I'm Soroosh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=800&lines=Python+Developer;Flutter+Developer;Bot+Developer;AI+Enthusiast;Animation+Creator;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+%26+Dart+Developer;AI+Enthusiast;Bot+Developer;Animation+Creator;Open-Source+Builder" />
+
+### Building creative, practical, and scalable projects with code.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=soroosh185&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/soroosh185?label=Followers&style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/soroosh185?label=Stars&style=flat&logo=github" />
+</p>
 
 </div>
 
 ---
 
-# 🚀 درباره من
+## 💫 About Me
 
 ```python
-class Me:
+class Soroosh:
     def __init__(self):
+        self.name = "Soroosh"
+        self.username = "soroosh185"
+        self.role = "Developer"
         self.languages = ["Python", "Dart", "JavaScript"]
-        self.interests = [
-            "Artificial Intelligence",
+        self.focus = [
+            "AI",
             "Bot Development",
             "Flutter Development",
             "Web Scraping",
+            "Automation",
             "Animation",
             "Open Source"
         ]
 
-    def say_hi(self):
-        print("Welcome to my GitHub profile ❤️")
+    def mission(self):
+        return "Learn fast, build useful things, ship quality work."
+```
 
-- 🐍 توسعه‌دهنده Python
-- 🎯 توسعه‌دهنده Flutter و Dart
-- 🤖 علاقه‌مند به هوش مصنوعی و ساخت دستیارهای هوشمند
-- 🛠️ توسعه‌دهنده ربات و سیستم‌های اتوماسیون
-- 🌐 علاقه‌مند به Web Scraping و کار با APIها
-- 🎬 انیمیشن‌ساز و تولیدکننده محتوا
-- 🚀 عاشق ساخت پروژه‌های بزرگ و خلاقانه
-- 📚 همیشه در حال یادگیری فناوری‌های جدید
+I am a developer who enjoys turning ideas into real products.  
+My focus is on building clean, useful, and creative software — from automation tools and bots to mobile apps and AI-driven projects.
+
+- 🐍 Strong interest in **Python** and backend logic
+- 📱 Building with **Flutter** and **Dart**
+- 🤖 Developing **bots** and smart automation systems
+- 🌐 Working with **APIs** and **web scraping**
+- 🧠 Exploring **artificial intelligence**
+- 🎬 Creating **animation** and content
+- 🚀 Always aiming for bigger and more creative projects
 
 ---
 
-💻 مهارت‌ها و فناوری‌ها
+## 🧠 What I Like Working On
+
+- Intelligent bots and management systems
+- Chat and auto-reply features
+- Cross-platform Flutter applications
+- Data extraction and web scraping tools
+- AI-powered utilities and assistants
+- Open-source libraries and frameworks
+- Creative software for animation and media
+- Multiplayer and interactive projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Development-4CAF50?style=flat" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-9C27B0?style=flat" />
+</p>
+
+---
+
+## 🚧 Featured Focus Areas
+
+- **Python Automation** — scripts that save time and reduce repetitive work
+- **Bot Development** — practical bots with useful features and clean logic
+- **Flutter Apps** — modern cross-platform mobile applications
+- **Web Scraping** — extracting and structuring data efficiently
+- **AI Projects** — smart tools, assistants, and experimental systems
+- **Animation Tools** — creative workflows for visual content
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,javascript,git,github,linux,vscode" />
-</p>🔹 زبان‌های برنامه‌نویسی
-
-- Python
-- Dart
-- JavaScript
-- HTML & CSS
-
-🔹 حوزه‌های تخصصی
-
-- Bot Development
-- Web Scraping
-- API Development
-- Automation
-- Artificial Intelligence
-- Backend Development
-- Flutter App Development
-
----
-
-🔥 پروژه‌هایی که دوست دارم بسازم
-
-- 🤖 ربات‌های هوشمند و مدیریتی
-- 💬 سیستم‌های چت و پاسخ‌گوی خودکار
-- 🧠 پروژه‌های مبتنی بر هوش مصنوعی
-- 📱 اپلیکیشن‌های Flutter
-- 🌐 ابزارهای Web Scraping و جمع‌آوری داده
-- ♟️ بازی‌ها و پروژه‌های چندنفره
-- 📦 کتابخانه‌ها و فریم‌ورک‌های کاربردی
-- 🎨 پروژه‌های خلاقانه و انیمیشن
-
----
-
-📊 آمار گیت‌هاب
+  <img src="https://github-readme-stats.vercel.app/api?username=soroosh185&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>---
-
-📈 نمودار فعالیت
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh185&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>---
-
-🏆 هدف من
-
-Build → Learn → Create → Repeat
-
-««کدنویسی فقط نوشتن کد نیست؛ ساختن چیزی است که قبلاً وجود نداشته است.»»
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soroosh185&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">⭐ اگر پروژه‌هایم را دوست داشتید، آن‌ها را Star کنید.
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soroosh185&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Goals
+
+```text
+Build • Learn • Improve • Share • Repeat
+```
+
+I believe good software should be useful, elegant, and built with intention.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: `soroosh185`
+- YouTube: `Add your channel link here`
+- Telegram: `Add your Telegram here`
+- Email: `Add your email here`
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
-```
