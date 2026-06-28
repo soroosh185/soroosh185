@@ -58,8 +58,6 @@ My focus is on building clean, useful, and creative software — from automation
 - Data extraction and web scraping tools
 - AI-powered utilities and assistants
 - Open-source libraries and frameworks
-- Creative software for animation and media
-- Multiplayer and interactive projects
 
 ---
 
@@ -91,7 +89,6 @@ My focus is on building clean, useful, and creative software — from automation
 - **Flutter Apps** — modern cross-platform mobile applications
 - **Web Scraping** — extracting and structuring data efficiently
 - **AI Projects** — smart tools, assistants, and experimental systems
-- **Animation Tools** — creative workflows for visual content
 
 ---
 
