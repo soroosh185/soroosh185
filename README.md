@@ -24,14 +24,13 @@ class Soroosh:
         self.name = "Soroosh"
         self.username = "soroosh185"
         self.role = "Developer"
-        self.languages = ["Python", "Dart", "JavaScript"]
+        self.languages = ["Python", "Dart"]
         self.focus = [
             "AI",
             "Bot Development",
             "Flutter Development",
             "Web Scraping",
             "Automation",
-            "Animation",
             "Open Source"
         ]
 
@@ -47,7 +46,6 @@ My focus is on building clean, useful, and creative software — from automation
 - 🤖 Developing **bots** and smart automation systems
 - 🌐 Working with **APIs** and **web scraping**
 - 🧠 Exploring **artificial intelligence**
-- 🎬 Creating **animation** and content
 - 🚀 Always aiming for bigger and more creative projects
 
 ---
