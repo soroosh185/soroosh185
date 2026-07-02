@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Soroosh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+%26+Dart+Developer;AI+Enthusiast;Bot+Developer;Golang;Open-Source+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+%26+Dart+Developer;AI+Enthusiast;Bot+Developer;Golang+Developer;Open-Source+Builder" />
 
 ### Building creative, practical, and scalable projects with code.
 
@@ -67,6 +67,7 @@ My focus is on building clean, useful, and creative software — from automation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=go&logoColor=white" />
 </p>
 
 ### Frameworks & Tools
