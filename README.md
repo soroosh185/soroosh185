@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Soroosh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+%26+Dart+Developer;AI+Enthusiast;Bot+Developer;Animation+Creator;Open-Source+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+%26+Dart+Developer;AI+Enthusiast;Bot+Developer;Golang;Open-Source+Builder" />
 
 ### Building creative, practical, and scalable projects with code.
 
