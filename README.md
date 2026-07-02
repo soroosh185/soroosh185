@@ -67,7 +67,7 @@ My focus is on building clean, useful, and creative software — from automation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-0175C2?logo=go&logoColor=white" />
 </p>
 
 ### Frameworks & Tools
