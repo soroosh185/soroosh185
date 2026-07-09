@@ -79,6 +79,7 @@ My focus is on building clean, useful, and creative software — from automation
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Development-4CAF50?style=flat" />
   <img src="https://img.shields.io/badge/Web%20Scraping-9C27B0?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 </p>
 
 ---
