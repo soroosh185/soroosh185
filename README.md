@@ -130,7 +130,7 @@ print(me.mission())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soroosh185&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soroosh185&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh185&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com/?user=soroosh185&theme=tokyonight&hide_border=true" />
