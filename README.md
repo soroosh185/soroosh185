@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%2C%20I'm%20Soroosh%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Go%20%7C%20AI%20%7C%20Bot%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%26+Go+Developer;AI+%2F+Machine+Learning+Enthusiast;Telegram+%26+Messaging-Platform+Bot+Builder;Streamlit+Dashboard+Creator;Flutter+%26+Dart+Developer;Always+Building+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%26+Go+Developer;AI+%2F+Machine+Learning+Enthusiast;Telegram+%26+Messaging-Platform+Bot+Builder;Streamlit+Dashboard+Creator;Flutter+%26+Dart+Developer;Always+Building+Something+New+%F0%9F%9A%80" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=soroosh185&label=Profile%20Views&color=6a5cff&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/soroosh185?label=Followers&style=for-the-badge&logo=github&color=6a5cff" />
-<img src="https://img.shields.io/github/stars/soroosh185?label=Stars&style=for-the-badge&logo=github&color=6a5cff" />
+<img src="https://img.shields.io/github/stars/soroosh185/soroosh185?label=Repo%20Stars&style=for-the-badge&logo=github&color=6a5cff" />
 
 </div>
 
@@ -130,10 +130,10 @@ print(me.mission())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soroosh185&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh185&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soroosh185&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh185&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soroosh185&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=soroosh185&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=soroosh185&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 
