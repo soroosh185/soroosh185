@@ -1,14 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Profile banner for Soroosh">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Profile banner for Soroosh">
 <defs>
-  <radialGradient id="flare" cx="78%" cy="42%" r="54%"><stop offset="0" stop-color="#ff4d3d" stop-opacity=".32"/><stop offset=".46" stop-color="#ff8a1f" stop-opacity=".1"/><stop offset="1" stop-color="#090708" stop-opacity="0"/></radialGradient>
-  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff4d3d"/><stop offset=".52" stop-color="#ff8a1f"/><stop offset="1" stop-color="#ffc857"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <style>.display{font:700 42px 'Trebuchet MS',sans-serif;fill:#fff4e6;letter-spacing:-1.2px}.label{font:700 10px 'Trebuchet MS',sans-serif;fill:#ff8a1f;letter-spacing:2px}.body{font:14px 'Trebuchet MS',sans-serif;fill:#bda7a2}.tag{font:700 11px 'Trebuchet MS',sans-serif;fill:#fff4e6;}.num{font:700 38px 'Trebuchet MS',sans-serif;fill:#fff4e6;}.tiny{font:10px 'Trebuchet MS',sans-serif;fill:#bda7a2;letter-spacing:1.2px}@keyframes drift{50%{transform:rotate(7deg)}}@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}.orbit{transform-origin:730px 156px;animation:drift 7s cubic-bezier(.32,.72,0,1) infinite}.intro{animation:rise .9s cubic-bezier(.32,.72,0,1) both}@media(prefers-reduced-motion:reduce){.orbit,.intro{animation:none}}</style>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff6b4a"/><stop offset=".55" stop-color="#ff9f43"/><stop offset="1" stop-color="#ffd166"/></linearGradient>
+  <radialGradient id="flare" cx="83%" cy="35%" r="55%"><stop offset="0" stop-color="#ff6b4a" stop-opacity=".22"/><stop offset=".5" stop-color="#ff9f43" stop-opacity=".07"/><stop offset="1" stop-color="#09080d" stop-opacity="0"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.display{font:700 54px 'Segoe UI',Inter,sans-serif;fill:#fff8ef;letter-spacing:-1.8px}.role{font:600 18px 'Segoe UI',Inter,sans-serif;fill:#fff8ef}.body{font:15px 'Segoe UI',Inter,sans-serif;fill:#b7afbf}.label{font:700 11px 'Segoe UI',Inter,sans-serif;fill:#ff9f43;letter-spacing:1.7px}.tag{font:600 12px 'Segoe UI',Inter,sans-serif;fill:#fff8ef}.metric{font:700 35px 'Segoe UI',Inter,sans-serif;fill:#fff8ef}.meta{font:700 10px 'Segoe UI',Inter,sans-serif;fill:#b7afbf;letter-spacing:1.2px}@keyframes appear{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}@keyframes breathe{50%{opacity:.55}}.intro{animation:appear .55s cubic-bezier(.16,1,.3,1) both}.pulse{animation:breathe 3.6s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.intro,.pulse{animation:none}}</style>
 </defs>
-<rect width="900" height="330" rx="26" fill="#171012"/><rect x="7" y="7" width="886" height="316" rx="21" fill="#0f0b0c" stroke="#4b2524"/><rect x="7" y="7" width="886" height="316" rx="21" fill="url(#flare)"/>
-<path d="M29 41h330" stroke="url(#rim)" stroke-width="2"/><circle cx="29" cy="41" r="4" fill="#ff4d3d"/><text x="42" y="69" class="label">EMBER COMMAND / PROFILE 01</text>
-<g class="intro"><text x="42" y="123" class="display">Soroosh</text><text x="42" y="152" class="body">Python &amp; Go Developer</text><text x="42" y="178" class="body">Iran</text><text x="42" y="212" class="label">CURRENT VECTOR</text><text x="42" y="234" class="body">AI / ML · Bot Development (Telegram, Rubika, Soroush Plus) · Backend Systems</text><g transform="translate(42 248)"><rect width="146" height="24" rx="12" fill="#211315" stroke="#66302b"/><text x="73" y="16" text-anchor="middle" class="tag">Python</text></g><g transform="translate(204 248)"><rect width="146" height="24" rx="12" fill="#211315" stroke="#66302b"/><text x="73" y="16" text-anchor="middle" class="tag">Go</text></g><g transform="translate(366 248)"><rect width="146" height="24" rx="12" fill="#211315" stroke="#66302b"/><text x="73" y="16" text-anchor="middle" class="tag">FastAPI</text></g><g transform="translate(42 282)"><rect width="146" height="24" rx="12" fill="#211315" stroke="#66302b"/><text x="73" y="16" text-anchor="middle" class="tag">Flutter</text></g><g transform="translate(204 282)"><rect width="146" height="24" rx="12" fill="#211315" stroke="#66302b"/><text x="73" y="16" text-anchor="middle" class="tag">Docker</text></g><g transform="translate(366 282)"><rect width="146" height="24" rx="12" fill="#211315" stroke="#66302b"/><text x="73" y="16" text-anchor="middle" class="tag">PostgreSQL</text></g></g>
-<g class="orbit"><circle cx="730" cy="156" r="108" fill="none" stroke="#5d2925"/><circle cx="730" cy="156" r="82" fill="none" stroke="#351919" stroke-dasharray="3 8"/><path d="M635 107a108 108 0 0 1 188 104" fill="none" stroke="url(#rim)" stroke-width="3" stroke-linecap="round"/><circle cx="635" cy="107" r="6" fill="#ff4d3d" filter="url(#glow)"/><circle cx="823" cy="211" r="5" fill="#ffc857"/></g>
-<text x="730" y="146" text-anchor="middle" class="num">7</text><text x="730" y="168" text-anchor="middle" class="tiny">TOTAL STARS</text><text x="730" y="193" text-anchor="middle" class="label">5 REPOSITORIES</text>
-<text x="858" y="318" text-anchor="end" class="tiny">STATUS / LEARN FAST, BUILD USEFUL THINGS, SHIP QUALITY WORK.</text>
+<rect width="900" height="340" rx="26" fill="#16131d"/>
+<rect x="7" y="7" width="886" height="326" rx="21" fill="#100e16" stroke="#393143"/>
+<rect x="7" y="7" width="886" height="326" rx="21" fill="url(#flare)"/>
+<path d="M28 8h844" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<g class="intro">
+  <circle cx="43" cy="43" r="5" fill="#ff6b4a" class="pulse" filter="url(#glow)"/>
+  <text x="57" y="47" class="label">DEVELOPER PROFILE  /  @SOROOSH185</text>
+  <text x="42" y="117" class="display">Soroosh</text>
+  <text x="42" y="151" class="role">Python &amp; Go Developer  ·  Iran</text>
+  <text x="42" y="196" class="body">Learn fast, build useful things, ship quality work.</text>
+  <text x="42" y="231" class="label">BUILDING NOW</text>
+  <text x="42" y="255" class="body">AI / ML · Bots · Backend Systems · Automation</text>
+  <g transform="translate(42 282)"><rect width="98" height="28" rx="14" fill="#191620" stroke="#393143"/><text x="49" y="18" text-anchor="middle" class="tag">Python</text></g><g transform="translate(150 282)"><rect width="98" height="28" rx="14" fill="#191620" stroke="#393143"/><text x="49" y="18" text-anchor="middle" class="tag">Go</text></g><g transform="translate(258 282)"><rect width="98" height="28" rx="14" fill="#191620" stroke="#393143"/><text x="49" y="18" text-anchor="middle" class="tag">FastAPI</text></g><g transform="translate(366 282)"><rect width="98" height="28" rx="14" fill="#191620" stroke="#393143"/><text x="49" y="18" text-anchor="middle" class="tag">Flutter</text></g><g transform="translate(474 282)"><rect width="98" height="28" rx="14" fill="#191620" stroke="#393143"/><text x="49" y="18" text-anchor="middle" class="tag">Docker</text></g>
+</g>
+<g transform="translate(616 53)">
+  <rect width="242" height="234" rx="22" fill="#191620" stroke="#393143"/>
+  <text x="22" y="34" class="label">LIVE SNAPSHOT</text>
+  <circle cx="206" cy="29" r="4" fill="#ffd166" class="pulse"/>
+  <path d="M22 52h198" stroke="#393143"/>
+  <text x="22" y="104" class="metric">5</text>
+  <text x="22" y="125" class="meta">REPOSITORIES</text>
+  <text x="139" y="104" class="metric">7</text>
+  <text x="139" y="125" class="meta">TOTAL STARS</text>
+  <path d="M22 147h198" stroke="#393143"/>
+  <text x="22" y="191" class="metric">5</text>
+  <text x="22" y="212" class="meta">FOLLOWERS</text>
+  <path d="M139 181h67" stroke="#393143" stroke-width="6" stroke-linecap="round"/>
+  <path d="M139 181h21" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+</g>
+<text x="858" y="317" text-anchor="end" class="meta">LIVE PUBLIC DATA  /  AUTO-REFRESHED</text>
 </svg>

@@ -1,142 +1,77 @@
 <!--
   Soroosh (soroosh185) — GitHub profile README
-  Artwork (hero.svg + signal.svg) is generated from live GitHub data
-  by scripts/generate.py and auto-refreshed by the GitHub Action.
+  The profile artwork is generated from live GitHub data by
+  scripts/generate.py and refreshed automatically by GitHub Actions.
 -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="900" alt="Soroosh — profile banner" />
+<img src="./assets/hero.svg" width="900" alt="Soroosh — Python and Go developer" />
 
-<br><br>
+<br>
 
-<a href="https://soroosh185.github.io/web_me/"><img src="https://img.shields.io/badge/PORTFOLIO-ff4d3d?style=for-the-badge&logo=aboutdotme&logoColor=fff4e6&labelColor=171012" alt="Portfolio" /></a>
-<a href="https://github.com/soroosh185"><img src="https://img.shields.io/badge/GITHUB-ff8a1f?style=for-the-badge&logo=github&logoColor=fff4e6&labelColor=171012" alt="GitHub" /></a>
-<a href="https://t.me/Soroosh_fathi"><img src="https://img.shields.io/badge/TELEGRAM-ffc857?style=for-the-badge&logo=telegram&logoColor=171012&labelColor=171012" alt="Telegram" /></a>
-<a href="mailto:sorooshfathi1385@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff6b50?style=for-the-badge&logo=gmail&logoColor=171012&labelColor=171012" alt="Email" /></a>
+<a href="https://soroosh185.github.io/web_me/"><img src="https://img.shields.io/badge/View_portfolio-c2412d?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=16131d" alt="View portfolio" /></a>
+<a href="https://github.com/soroosh185?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-b45309?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=16131d" alt="Explore projects" /></a>
+<a href="mailto:sorooshfathi1385@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-8a5a00?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=16131d" alt="Start a conversation by email" /></a>
+
+<p><strong>Python &amp; Go Developer</strong> building practical bots, backend systems,<br>automation tools, dashboards, and cross-platform apps.</p>
 
 </div>
 
-<br>
+## About me
 
----
+I turn ideas into focused, dependable software. My work sits at the intersection of backend development, automation, and applied AI—with a strong preference for clear interfaces and tools that solve real problems.
 
-## 👋 Hey, I'm Soroosh
+- Based in Iran and open to learning, collaboration, and interesting technical challenges.
+- Currently focused on AI-assisted tools, bot development, and production-ready APIs.
+- I value readable code, thoughtful UX, and shipping useful work.
 
-> **Python & Go Developer** · **AI / ML enthusiast** · **Bot builder** · **Streamlit dashboard creator** — from **Iran**.
+## What I build
 
-I love turning ideas into fast, clean, useful software — smart bots, automation scripts, data dashboards, backend APIs and cross-platform apps. I learn fast, build useful things, and ship quality work. 🚀
+| Focus | What that means in practice |
+|:--|:--|
+| **Bots & automation** | Telegram, Rubika, and Soroush Plus bots; scraping and repetitive-work automation |
+| **Backend systems** | FastAPI and Go services designed for clarity, speed, and maintainability |
+| **AI & data tools** | Machine-learning experiments and Streamlit dashboards for useful insights |
+| **Cross-platform apps** | Flutter applications with a clean, consistent user experience |
 
-```python
-class Soroosh:
-    def __init__(self):
-        self.name      = "Soroosh"
-        self.username  = "soroosh185"
-        self.role      = "Python & Go Developer"
-        self.languages = ["Python", "Go", "Dart"]
-        self.focus     = [
-            "AI / Machine Learning",
-            "Backend development (FastAPI, Go)",
-            "Bot development — Telegram, Rubika, Soroush Plus",
-            "Streamlit data dashboards",
-            "Flutter apps",
-            "Automation & web scraping",
-        ]
+## Toolkit
 
-    def build(self, idea: str) -> str:
-        return f"shipping {idea} → clean, useful software ✨"
+<p>
+  <img src="https://img.shields.io/badge/Python-17141d?style=flat-square&logo=python&logoColor=ffd166" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-17141d?style=flat-square&logo=go&logoColor=5dd9f5" alt="Go" />
+  <img src="https://img.shields.io/badge/Dart-17141d?style=flat-square&logo=dart&logoColor=5aa9ff" alt="Dart" />
+  <img src="https://img.shields.io/badge/FastAPI-17141d?style=flat-square&logo=fastapi&logoColor=4ad7b8" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flutter-17141d?style=flat-square&logo=flutter&logoColor=61b5ff" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Streamlit-17141d?style=flat-square&logo=streamlit&logoColor=ff6b6b" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PostgreSQL-17141d?style=flat-square&logo=postgresql&logoColor=7fb3ff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-17141d?style=flat-square&logo=docker&logoColor=62b8ff" alt="Docker" />
+  <img src="https://img.shields.io/badge/TensorFlow-17141d?style=flat-square&logo=tensorflow&logoColor=ff9f43" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-17141d?style=flat-square&logo=scikitlearn&logoColor=ffb15c" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Git-17141d?style=flat-square&logo=git&logoColor=ff765f" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-17141d?style=flat-square&logo=linux&logoColor=ffd166" alt="Linux" />
+</p>
 
+## Selected work
 
-soroosh = Soroosh()
-print(soroosh.build("your next idea"))
-```
+- **[Sophia Bot for Rubika](https://github.com/soroosh185/sophia_bot_rubika)** — a Python group-management bot for the Rubika platform.
+- **[Snake Game](https://github.com/soroosh185/snake_game)** — a compact Python game project focused on clear logic and interaction.
+- **[Personal Portfolio](https://soroosh185.github.io/web_me/)** — a home for my work, experiments, and contact details.
 
-<br>
-
-## ✨ What I'm about
-
-| | |
-|---|---|
-| 🐍 **Python-first** | Strong focus on Python and backend logic |
-| 🧠 **AI / ML** | Diving deep into machine learning and smart tools |
-| 🤖 **Bots** | Self-bots & management bots for Telegram, Rubika, Soroush Plus |
-| 📊 **Dashboards** | Streamlit dashboards for real-time monitoring & analytics |
-| ⚙️ **Go backend** | High-performance backend services and APIs |
-| 📱 **Flutter** | Modern cross-platform mobile applications |
-| 🌐 **APIs & scraping** | Working with APIs, web scraping and automation |
-
-<br>
-
----
-
-## 🛠️ Tech Stack
-
-All skills are still here — just packed into tidy horizontal rows.
-
-**🗣️ Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-**🧩 Frameworks & Platforms**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-**🧠 AI / ML**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-**🛠️ Tools & Workflow**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-<br>
-
----
-
-## 🧠 Focus Areas
-
-| Area | What I work on |
-|---|---|
-| 🤖 **Bot Development** | Self-bots & management bots for Telegram, Rubika, Soroush Plus |
-| 🧠 **AI / ML Projects** | Smart tools, assistants and experimental AI systems |
-| 📊 **Data Dashboards** | Real-time Streamlit dashboards for monitoring & analytics |
-| ⚙️ **Go Backend Systems** | High-performance backend services and APIs |
-| 📱 **Flutter Apps** | Modern cross-platform mobile applications |
-| 🐍 **Python Automation** | Scripts that save time and remove repetitive work |
-
-<br>
-
----
-
-## 📊 GitHub Telemetry
-
-Live stats generated from my public GitHub data — refreshed automatically by a GitHub Action, no third-party service needed.
+## GitHub activity
 
 <div align="center">
 
-<img src="./assets/signal.svg" width="900" alt="Soroosh — GitHub telemetry dashboard" />
+<img src="./assets/signal.svg" width="900" alt="Live overview of Soroosh's public GitHub activity, languages, and selected repositories" />
 
-<br>
-
-<sub>Updated regularly via the bundled GitHub Action.</sub>
+<sub>Generated from public GitHub data and refreshed automatically—no external stats service.</sub>
 
 </div>
 
-<br>
+## Let's build something useful
 
----
-
-## 📫 Let's Connect
+Have an idea, a technical challenge, or a project that could use a thoughtful developer? Reach me on **[Telegram](https://t.me/Soroosh_fathi)** or **[send an email](mailto:sorooshfathi1385@gmail.com)**.
 
 <div align="center">
-
-<a href="https://t.me/Soroosh_fathi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:sorooshfathi1385@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/soroosh185"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://soroosh185.github.io/web_me/"><img src="https://img.shields.io/badge/Portfolio-ff4d3d?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-
-<br><br>
-
-<sub>⭐ Thanks for visiting my profile — feel free to explore my repos!</sub>
-
+  <sub>Thanks for stopping by.</sub>
 </div>

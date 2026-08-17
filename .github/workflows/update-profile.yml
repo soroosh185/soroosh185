@@ -1,4 +1,4 @@
-name: Update Ember Command
+name: Update profile artwork
 
 on:
   workflow_dispatch:
